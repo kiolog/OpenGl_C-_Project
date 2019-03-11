@@ -24,7 +24,7 @@ UI(Change Animal)
 * 基本上就是Floor Map可以做random，再跟River Map, Mountain Map做blend，這裡並沒有用到geometry, tesellation shader
 * 而是把所有點都當成vertex丟進vertex shader
 
-2. collision detection
+#### 2. collision detection
 
 <img src="img/Collision.gif" width="300">
 
@@ -34,7 +34,7 @@ UI(Change Animal)
 <img src="img/Collision1.png" width="300">
 <img src="img/Collision2.png" width="300">
 
-3. Controller(AI, Keyboard)
+#### 3. Controller(AI, Keyboard)
 
 * Player Controller(base class)
 ** Member : List of GameObject
@@ -48,7 +48,7 @@ UI(Change Animal)
 * AI Controller(inherit PlayerController):
 ** Update Direction From Rules
 
-4. Animal Manager
+#### 4. Animal Manager
 
 * 1.Register Animal:
 ** Preload Fbx mesh
@@ -57,12 +57,12 @@ UI(Change Animal)
 * 2.Create Animal(EAnimalType):
 ** Create GameObject base on AnimalType, and return the gameobject
 
-5. MovementSimulator:
+#### 5. MovementSimulator:
 
 * 1. Contain list of playercontroller
 * 2. Update All gameobject position
 
-6. Water Simulation:
+#### 6. Water Simulation:
 
 <img src="img/Water.gif" width="300">
 
@@ -81,7 +81,7 @@ UI(Change Animal)
 * 1.用一個height map紀錄water simulation的height，當物體hit water surface的時候在該點的height map上畫上一個點，然後用一個演算法來讓他擴散跟decay。
 * 2.用tesselation shader來讓vertex的height根據height map產生變化
 
-7. Click Detector
+#### 7. Click Detector
 
 Detect the global position where user click on screen
 

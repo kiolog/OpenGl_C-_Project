@@ -14,7 +14,7 @@ UI(Change Animal)
 
 ### 2.Implement
 
-## 1. LandScape(另外一位組員負責)
+#### 1. LandScape(另外一位組員負責)
 
 主要是由三張Map做weight上的blending所組成
 

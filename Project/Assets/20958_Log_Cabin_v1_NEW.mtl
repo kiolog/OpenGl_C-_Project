@@ -1,0 +1,31 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 03.06.2013 16:07:05
+
+newmtl 20958_Log_Cabin_v1
+	Ns 18.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.3240 0.3240 0.3240
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 20958_Log_Cabin_v1_diffuse.jpg
+	map_Kd 20958_Log_Cabin_v1_diffuse.jpg
+	map_Ks 20958_Log_Cabin_v1_specular.jpg
+
+newmtl 02___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka disc_diffuse.JPG
+	map_Kd disc_diffuse.JPG

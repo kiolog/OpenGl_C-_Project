@@ -1,0 +1,141 @@
+﻿  main.cpp
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\include.h(81): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\include.h(152): warning C4018: '<': signed/unsigned 不相符
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\include.h(154): warning C4018: '<': signed/unsigned 不相符
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\include.h(184): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'Shape' 的左方
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\include.h(189): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'Material' 的左方
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\include.h(237): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_math_defines.h(22): warning C4005: 'M_PI': 巨集重複定義
+  d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\include.h(55): note: 請參閱 'M_PI' 之前的定義
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\snow.cpp(93): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\snow.cpp(95): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\snow.cpp(96): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\snow.cpp(100): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\snow.cpp(101): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\snow.cpp(102): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\snow.cpp(130): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\snow.cpp(131): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\snow.cpp(132): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\snow.cpp(136): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\snow.cpp(137): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\utilities.cpp(220): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\utilities.cpp(221): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\utilities.cpp(223): warning C4244: 'return': 將 'float' 轉換為 '::size_t'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\utilities.cpp(268): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\utilities.cpp(289): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\utilities.cpp(410): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(75): warning C4091: 'static ': 當沒有宣告變數時，忽略 'TerrainProgram' 的左方
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(118): warning C4244: '正在初始化': 將 'float' 轉換為 '::size_t'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(126): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(142): warning C4244: '正在初始化': 將 'float' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(143): warning C4244: '正在初始化': 將 'float' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(178): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(187): warning C4244: '正在初始化': 將 'float' 轉換為 '::size_t'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(207): warning C4244: '正在初始化': 將 'float' 轉換為 '::size_t'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(209): warning C4244: '*=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(210): warning C4244: '*=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(211): warning C4244: '*=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(212): warning C4244: '*=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(284): warning C4244: '正在初始化': 將 'float' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(285): warning C4244: '正在初始化': 將 'float' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(286): warning C4244: '正在初始化': 將 'float' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(287): warning C4244: '正在初始化': 將 'float' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(333): warning C4244: '引數': 將 'float' 轉換為 'GLsizeiptr'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(335): warning C4244: '引數': 將 'float' 轉換為 'GLsizeiptr'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(337): warning C4244: '引數': 將 'float' 轉換為 'GLsizeiptr'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(339): warning C4244: '引數': 將 'float' 轉換為 'GLsizeiptr'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(361): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(364): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(367): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(370): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(384): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(385): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(431): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(439): warning C4838: 從 'double' 到 'float' 的轉換必須是縮小轉換
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(437): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(438): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(442): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(444): warning C4101: 'r': 未參考的區域變數
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(548): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(553): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(555): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(584): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(587): warning C4244: '正在初始化': 將 'float' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(589): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(654): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(656): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(659): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\terrain.cpp(675): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\smallmap.cpp(71): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\smallmap.cpp(72): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\smallmap.cpp(74): warning C4244: '引數': 將 'int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\smallmap.cpp(109): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\fluid.h(21): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\fluid.h(105): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\fluid.h(175): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\fluid.h(194): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\fluid.h(208): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\fluid.h(213): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\fluid.h(231): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\fluid.h(245): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\fluid.h(266): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\fluid.h(285): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\fluid.h(295): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\light.h(57): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\light.h(79): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\skybox.h(47): warning C4018: '<': signed/unsigned 不相符
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\clickdetector.h(34): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\myfbxmesh.h(52): warning C4018: '<': signed/unsigned 不相符
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\myfbxmesh.h(58): warning C4018: '<': signed/unsigned 不相符
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\myfbxmesh.h(64): warning C4244: '+=': 將 'float' 轉換為 'GLubyte'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\myfbxmesh.h(92): warning C4018: '<': signed/unsigned 不相符
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\myfbxmesh.h(118): warning C4018: '<': signed/unsigned 不相符
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\aicontroller.h(34): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\mesh.h(70): warning C4018: '<': signed/unsigned 不相符
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\mesh.h(85): warning C4018: '<': signed/unsigned 不相符
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\mesh.h(112): warning C4018: '<': signed/unsigned 不相符
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\mesh.h(162): warning C4018: '<': signed/unsigned 不相符
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\animalmanager.h(52): warning C4316: 'MyFbxMesh': 在堆積上配置的物件可能不是對齊的 16
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\animalmanager.h(59): warning C4316: 'MyFbxMesh': 在堆積上配置的物件可能不是對齊的 16
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\main.cpp(165): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\main.cpp(165): warning C4316: 'FirstPersonCamera': 在堆積上配置的物件可能不是對齊的 16
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\main.cpp(166): warning C4316: 'ThirdPersonCamera': 在堆積上配置的物件可能不是對齊的 16
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\main.cpp(172): warning C4316: 'Fluid': 在堆積上配置的物件可能不是對齊的 16
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\main.cpp(177): warning C4316: 'Light': 在堆積上配置的物件可能不是對齊的 16
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\main.cpp(185): warning C4316: 'MeshRenderer': 在堆積上配置的物件可能不是對齊的 16
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\main.cpp(199): warning C4316: 'SkyBox': 在堆積上配置的物件可能不是對齊的 16
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\main.cpp(241): warning C4316: 'GameObject': 在堆積上配置的物件可能不是對齊的 16
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\main.cpp(281): warning C4316: 'GameObject': 在堆積上配置的物件可能不是對齊的 16
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\main.cpp(398): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\main.cpp(399): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\main.cpp(469): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\main.cpp(656): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\main.cpp(710): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\main.cpp(716): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\utilities.cpp(203): warning C4018: '<': signed/unsigned 不相符
+  d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\utilities.cpp(236): note: 請參閱所要編譯的函式 樣板 具現化 'void Image::flipY<unsigned char>(T *)' 之參考
+          with
+          [
+              T=unsigned char
+          ]
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\utilities.cpp(204): warning C4018: '<': signed/unsigned 不相符
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\utilities.cpp(205): warning C4244: '引數': 將 '::size_t' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\source\utilities.cpp(206): warning C4244: '引數': 將 '::size_t' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  header_only.cpp
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\tinyobj\tiny_obj_loader.h(1092): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: 請參閱 'sscanf' 的宣告
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\tinyobj\tiny_obj_loader.h(1116): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: 請參閱 'sscanf' 的宣告
+  particle.cpp
+  fbxloader.cpp
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\fbxloader.cpp(56): warning C4244: '引數': 將 'float' 轉換為 'const int'，由於類型不同，可能導致資料遺失
+  glTools.cpp
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\gltools.cpp(1041): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\gltools.cpp(1123): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+  正在產生程式碼...
+d:\graphicprogramming\teamfinal\as2_framework\as2_framework\externals\include\myinclude\fbxloader.cpp(105): warning C4700: 使用了未初始化的區域變數 'lResult'
+  AS2_Framework.vcxproj -> D:\GraphicProgramming\TeamFinal\AS2_Framework\AS2_Framework\VC14\Debug\AS2_Framework.exe

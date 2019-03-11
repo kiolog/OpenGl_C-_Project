@@ -36,8 +36,6 @@ UI(Change Animal)
 
 3. Controller(AI, Keyboard)
 
-<img src="img/Arch_Controller.png" width="300">
-
 * Player Controller(base class)
 ** Member : List of GameObject
 ** Virtual Function : 
